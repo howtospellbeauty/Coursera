@@ -1,5 +1,5 @@
 
-## MLSpecialization
+## Machine Learning Specialization
 Coursera's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Stanford University. Consists of:
 * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 * [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
