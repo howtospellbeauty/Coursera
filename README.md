@@ -11,7 +11,7 @@ Coursera's [Machine Learning Specialization](https://www.coursera.org/specializa
 Final [Certificate](final_ML.pdf), specialization grade: 100%.
 
 * Supervised Machine Learning: Regression and Classification
-    * [Certificate link](1_Supervised Machine Learning.pdf)
+    * [Certificate link](1_Supervised_Machine_Learning.pdf)
     * 100% on all Quizzes
     * Week 2 Linear Regression Lab: 100%
     * Week 3 Logistic Regression Lab: 100%
@@ -25,7 +25,7 @@ Final [Certificate](final_ML.pdf), specialization grade: 100%.
     * Week 4 Decision Tree Lab: 100%
     * Final Grade: 100%
 * Unsupervised Learning, Recommenders, Reinforcement Learning
-    * [Certificate link](3_Supervised Machine Learning.pdf)
+    * [Certificate link](3_Supervised_Machine_Learning.pdf)
     * 100% on all Quizzes
     * Week 1 Assignment 1 K-Means Lab: 100%
     * Week 1 Assignment 2 Anomaly Detection Lab: 100%
